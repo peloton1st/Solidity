@@ -1,1 +1,1 @@
-# Solidity
+# Solidity Programming Samples
